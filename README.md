@@ -18,7 +18,7 @@ Install [fpdf](https://pypi.org/project/fpdf/) with `python -m pip install fpdf2
 
 »Inter« by Rasmus Andersson, [rsms.me/inter/](https://rsms.me/inter/)
 
-»Vollkorn« by Friedrich Althausen, [vollkorn-typeface.com](vollkorn-typeface.com)
+»Vollkorn« by Friedrich Althausen, [vollkorn-typeface.com](http://vollkorn-typeface.com/)
 
 
 
