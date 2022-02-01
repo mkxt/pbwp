@@ -1,28 +1,24 @@
 # Programming books with Python
 
-This repository contains small programs which generate PDFs, including the code of the program itself. This examples serve as a base for experimental book creation.
+This repository contains small python programs which generate PDFs, including the code of the program itself. This examples serve as a base for experimental book creation and were made for the course [Programming books with Python](https://playground.uni-weimar.de/pbwp/).
 
 
 
-## Setup
-
-Install [fpdf](https://pypi.org/project/fpdf/) with `python -m pip install fpdf2`
-
-[Documentation of fpdf2](https://pyfpdf.github.io/fpdf2//)
 
 
+## Sources
 
-## Used fonts
+### Fonts
 
 »Hack«, [https://sourcefoundry.org/hack/](https://sourcefoundry.org/hack/)
 
 »Inter« by Rasmus Andersson, [rsms.me/inter/](https://rsms.me/inter/)
 
-»Vollkorn« by Friedrich Althausen, [vollkorn-typeface.com](http://vollkorn-typeface.com/)
+»Vollkorn« by Friedrich Althausen, [vollkorn-typeface.com](vollkorn-typeface.com)
 
 
 
-## Used images
+### Images
 
 https://commons.wikimedia.org/wiki/File:Example_image.png
 
